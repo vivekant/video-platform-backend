@@ -1,5 +1,5 @@
 # video-platform-backend
-# to run this code
-# npm init -y
-# npm install
-# npm run dev
+##### to run this code
+##### npm init -y
+##### npm install
+##### npm run dev
